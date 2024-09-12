@@ -47,7 +47,7 @@ export default defineUserConfig({
       body: [
         {
           type: "text",
-          content: `🎉🎉🎉 reco 主题 2.x 已经接近 Beta 版本，在发布 Latest 版本之前不会再有大的更新，大家可以尽情尝鲜了，并且希望大家在 QQ 群和 GitHub 踊跃反馈使用体验，我会在第一时间响应。`,
+          content: `🎉🎉🎉科协时间博物馆，第一次搭建成功`,
           style: "font-size: 12px;",
         },
         {
@@ -55,15 +55,13 @@ export default defineUserConfig({
         },
         {
           type: "title",
-          content: "QQ 群",
+          content: "2024招新群",
         },
         {
           type: "text",
           content: `
           <ul>
-            <li>QQ群1：1037296104</li>
-            <li>QQ群2：1061561395</li>
-            <li>QQ群3：962687802</li>
+            <li>QQ群：824467616</li>
           </ul>`,
           style: "font-size: 12px;",
         },
@@ -78,8 +76,8 @@ export default defineUserConfig({
           type: "text",
           content: `
           <ul>
-            <li><a href="https://github.com/vuepress-reco/vuepress-theme-reco-next/issues">Issues<a/></li>
-            <li><a href="https://github.com/vuepress-reco/vuepress-theme-reco-next/discussions/1">Discussions<a/></li>
+            <li><a href="https://gitee.com/hemerocallefauve/c-language-lessons">汪哲文C语言课程<a/></li>
+            <li><a href="https://github.com/AgreementHY/ETA-History">本项目仓库<a/></li>
           </ul>`,
           style: "font-size: 12px;",
         },
@@ -90,7 +88,7 @@ export default defineUserConfig({
           type: "buttongroup",
           children: [
             {
-              text: "打赏",
+              text: "不要点",
               link: "/docs/others/donate.html",
             },
           ],
