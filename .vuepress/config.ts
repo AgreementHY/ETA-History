@@ -4,7 +4,7 @@ import { viteBundler } from '@vuepress/bundler-vite'
 import { webpackBundler } from '@vuepress/bundler-webpack'
 
 export default defineUserConfig({
-  base: "/ETA-History/",
+  base: "/",
   title: "vuepress-theme-reco",
   description: "Just playing around",
   bundler: viteBundler(),
